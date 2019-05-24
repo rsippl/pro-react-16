@@ -1,6 +1,6 @@
 ﻿Freeware License, some rights reserved
 
-Copyright (c) 2019 Adam Freeman
+Copyright (c) 2019 Adam Freeman, Ralf Sippl
 
 Permission is hereby granted, free of charge, to anyone obtaining a copy 
 of this software and associated documentation files (the "Software"), 

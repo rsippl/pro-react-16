@@ -7,10 +7,14 @@ This repository accompanies [*Pro React 16*](https://www.apress.com/978148424450
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
-## Releases
+## Changes and Additions
 
-Release v1.0 corresponds to the code in the published book, without corrections or updates.
+My fork focuses on code cleanup and on using newer features (like hooks) which weren't used in the book.
 
-## Contributions
+I'm using `yarn`, but you can also use `npm` instead.
 
-See the file Contributing.md for more information on how you can contribute to this repository.
+### Chapter 1
+
+This app is **way** too complex as a first React App. I bet it scares off many users. Besides, in my opinion, the code could be a bit cleaner.
+
+In `todo-hooks`, I'm refactoring the app using function based components with hooks.
