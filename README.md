@@ -9,7 +9,7 @@ Download the files as a zip using the green button, or clone the repository to y
 
 ## Changes and Additions
 
-My fork focuses on code cleanup and on using newer features (like hooks) which weren't used in the book.
+My fork focuses on code cleanup and on using newer features (like hooks) which weren't used in the book. These additions are a byproduct of my learning process, I'm adding them here in case they might be useful to someone out there.
 
 I'm using `yarn`, but you can also use `npm` instead.
 
