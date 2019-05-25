@@ -10,4 +10,4 @@ export const ShopReducer = (storeData, action) => {
         default:
             return storeData || {};
     }
-}
+};
